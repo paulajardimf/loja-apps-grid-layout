@@ -1,0 +1,1 @@
+Projeto de uma página responsiva de uma loja de aplicativos feito em HTML e CSS com grid layout.
